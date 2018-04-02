@@ -28,7 +28,7 @@ The files corresponding to each classifier is as following:-
 *	[NeuralNet](https://github.com/ritvikkhanna09/Census-classifier-comparison/blob/master/NeuralNetworks.ipynb)
 
 
-## Results
+### Results
 
 * #### Confusion matrix
 	![alt text](https://github.com/ritvikkhanna09/Census-classifier-comparison/blob/master/ConfusionMatrix.png)
